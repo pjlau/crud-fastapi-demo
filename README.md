@@ -1,6 +1,6 @@
 # Task Manager FastAPI-React Demo
 
-A simple REST API built with FastAPI backend to manage tasks. This project demonstrates integration with React frontend.
+A simple REST API built with FastAPI backend to manage tasks. This project demonstrates integration with ReactJS frontend.
 
 ## Directory
 
@@ -27,8 +27,8 @@ A simple REST API built with FastAPI backend to manage tasks. This project demon
 ## Features
 - CRUD operations for tasks (Create, Read, Update, Delete)
 - In-memory data store
-- Unit tests with `pytest`
-- Modular Flask application structure
+- FastAPI: asynchronous and fast execution
+- ReactJS: 
 
 ## Setup
 1. Clone the repository:
