@@ -28,7 +28,7 @@ A simple REST API built with FastAPI backend to manage tasks. This project demon
 - CRUD operations for tasks (Create, Read, Update, Delete)
 - In-memory data store
 - FastAPI: asynchronous and fast execution
-- ReactJS: 
+- ReactJS: server-side rendering allows React components to be rendered on the server and sent to the browser as fully rendered HTML
 
 ## Setup
 1. Clone the repository:
