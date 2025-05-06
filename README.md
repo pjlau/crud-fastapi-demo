@@ -60,3 +60,5 @@ The app provides the CRUD operations:
 - DELETE /tasks/{id}: Delete a task.
 
 ## Results
+
+<img src="images/demo_fig1.png" alt="Example1" width="400">
