@@ -1,4 +1,4 @@
-# Task Manager API Demo
+# Task Manager FastAPI-React Demo
 
 A simple REST API built with FastAPI backend to manage tasks. This project demonstrates integration with React frontend.
 
