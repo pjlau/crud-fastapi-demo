@@ -8,7 +8,7 @@ A simple REST API built with FastAPI backend to manage tasks. This project demon
    project/
    ├── backend/
    │   ├── main.py
-   │   ├── models.py
+   │   └── models.py
    └── frontend/
        ├── public/
        │   ├── index.html
